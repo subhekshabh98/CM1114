@@ -1,0 +1,22 @@
+body {
+    background-color: #808080;
+}
+main {
+    background-color: #FFFFFF;
+}
+nav li{
+    border: 2px solid black;
+    background-color: green;
+}
+nav li a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+nav li hover{
+    background-color: yellow;
+}
+
+.active{
+    background-color: black;
+}
